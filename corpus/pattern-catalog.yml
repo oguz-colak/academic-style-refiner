@@ -1,0 +1,27 @@
+academic_cliches:
+  - bu bağlamda
+  - günümüzde
+  - değerlendirildiğinde
+  - ele alındığında
+  - dikkat çekmektedir
+  - karşımıza çıkmaktadır
+  - önemli bir rol oynamaktadır
+  - ifade etmek mümkündür
+  - söylenebilir ki
+  - ortaya koymaktadır
+
+passive_voice_patterns:
+  - değerlendirilmektedir
+  - gerçekleştirilmektedir
+  - incelenmektedir
+  - kullanılmaktadır
+  - ortaya konulmaktadır
+
+discourse_markers:
+  - ayrıca
+  - bununla birlikte
+  - dolayısıyla
+  - sonuç olarak
+  - öte yandan
+  - buna karşın
+  - diğer taraftan
